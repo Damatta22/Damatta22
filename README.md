@@ -11,7 +11,7 @@ I am looking for an opportunity to work with what I love,
 program !
 <br>
 <br>
- <a href="linkedin.com/in/flávio-da-mata-b474b91b6">Click here to see my Linkedin</a>
+ <a href="https://www.linkedin.com/in/fl%C3%A1vio-da-mata-b474b91b6/">Click here to see my Linkedin</a>
  <br>
  <br>
 [![Flávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damatta22)](https://github.com/anuraghazra/github-readme-stats)
